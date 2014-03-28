@@ -10,12 +10,14 @@ A boilerplate for smaller websites or webbapplications using PHP.
 No installation needed, just copy and open with the editor you find suitable (PhpStorm 7.1.2 works perfectly).
 
 There are two ways to interact with it:
+
 1. Read the code. Much effort has gone into making the example code readable,
 not only in terms of the code itself, but also the extensive inline comments
 and documentation blocks.
 
 2. Browse the code and documentation on the web.
 
+---------------------
 
 - This base includes the following maps:
         src
