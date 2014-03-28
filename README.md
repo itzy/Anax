@@ -2,7 +2,7 @@ itzy-base Version 1.0 28/03/2014
 ==================
 
 GENERAL USAGE NOTES
--------------------
+---------------------
 
 A boilerplate for smaller websites or webbapplications using PHP.
 
