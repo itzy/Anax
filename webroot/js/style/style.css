@@ -1,0 +1,149 @@
+/**
+ * General elements
+ */
+body {
+    color: #333;
+    background-color: #e9e9e9;
+    font-family: arial, sans-serif;
+}
+
+/**
+ * Layout of the main page elements 
+ */
+#wrapper {
+    margin: 0 auto;
+    width: 980px;
+    padding: 10px;
+}
+
+#bild
+{
+    margin-top: -50px;
+    padding: 0 10px 10px 10px;
+    float: right;
+    margin-right: 10px;
+}
+
+/**
+ * Layout for header
+ */
+#header {
+    position: relative;
+    margin-left: 200px;
+}
+
+.sitetitle {
+    position: absolute;
+    top: 25px;
+    left: -50px;
+    font-size: 48px;
+    font-family: "gothique time";
+}
+
+.siteslogan {
+    position: absolute;
+    top: 85px;
+    left: -50px;
+    font-style: italic;
+    color: #666;
+    font-family: helvetica;
+}
+
+.sitelogo {
+    position: relative;
+    top: -10px;
+    left: -200px;
+    font-style: italic;
+    color: #666;
+}
+
+h1 {
+    font-family: "gothique time";
+}
+
+.navbar { background-color:#A3CC29;font-family:Verdana; text-align: center; padding: 2px;}
+.navbar a {padding:0 0.5em 0 0.2em; background-color:#A3CC29;color:#fff;text-decoration:none;}
+.navbar a:hover {background-color:#A3CC29;}
+
+/**
+ * Layout for main
+ */
+#main {
+    min-height: 20em;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    padding-top: 1px;
+    font-family: helvetica;
+}
+
+#content {
+    min-height: 20em;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    padding-top: 1px;
+    font-family: helvetica;
+}
+
+
+
+/**
+ * Layout for footer
+ */
+#footer {
+    margin-top: 10px;
+    border-top: 1px solid #ccc;
+    padding-top: 15px;
+    text-align: center;
+    font-family: "gothique time";
+}
+
+.sitefooter {
+    color: #A3CC29;
+}
+
+/* länkar
+*/
+a {  color: inherit; outline:0;}
+a:link    { text-decoration: none; }
+a:visited { }
+a:hover   { text-decoration:none; color:#333333; }
+a:active  { }
+
+/**
+Source
+**/
+
+div.container {
+    min-width: 40em;
+}
+div.header {
+    color: #000;
+    border: solid 1px #999;
+    border-bottom: 0px;
+    background: #eee;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+div.rows {
+    float: left;
+    text-align: right;
+    color: #999;
+    border: solid 1px #999;
+    background: #eee;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+div.rows a:link,
+div.rows a:visited,
+div.rows a:hover,
+div.rows a:active  {
+    text-decoration:none;
+    color: inherit;
+}
+div.code {
+    white-space: nowrap;
+    border: solid 1px #999;
+    background: #f9f9f9;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    overflow:auto;
+}
