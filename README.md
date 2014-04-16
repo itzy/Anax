@@ -8,6 +8,7 @@ This software is free software and carries a MIT license.
 
 
 USE OF EXTERNAL LIBRARIES
+--------------------------
 
 The following external modules are included and subject to its own license.
 
