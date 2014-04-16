@@ -6,8 +6,7 @@ License
 
 This software is free software and carries a MIT license.
 
-
-USE OF EXTERNAL LIBRARIES
+Use of external libraries
 --------------------------
 
 The following external modules are included and subject to its own license.
@@ -21,8 +20,7 @@ Path: included in 3pp/php-markdown
 
 
 
-
-GENERAL USAGE NOTES
+General usage notes
 ---------------------
 
 A boilerplate for smaller websites or webbapplications using PHP.
@@ -61,12 +59,6 @@ and documentation blocks.
 
             ( here you put all the sites that your page is made of, the basic is included such as viewsource.php,
             config.php and some other. Change to fit your purpose.)
-
-License
-------------------
-
-This software is free software and carries a MIT license.
-
 
 ------------------
 Contact
