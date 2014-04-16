@@ -1,6 +1,11 @@
 itzy-base Version 1.0 28/03/2014
 ==================
 
+This is the base for Anax, which is my version based on the course material in the university course http://dbwebb.se/oophp.
+This Anax is based on Anax-oophp which builds upon Anax-base.
+
+This version is built by Julia Sivartsson.
+
 License
 ---------------------
 
